@@ -1,0 +1,105 @@
+table, th, td {
+	border: none;
+	border-collapse: collapse;
+}
+
+th, td {
+	padding: 10px;
+}
+
+input#pr[type=submit] {
+	height: 30px;
+	width: 100%;
+	float: right;
+	background: linear-gradient(to bottom right,blue,azure);
+	color:#E8260C;
+	text-align: center;
+	border-radius: 20px;
+	font-style:oblique;
+	font-weight: bold;
+	font-family:courier-new;
+	font-size:20px;
+	
+}
+
+input#b1[type=submit] {
+	height: 30px;
+	width: 100px;
+	float: right;
+	background: linear-gradient(to bottom right,blue,azure);
+	color:red;
+	text-align: center;
+	border-radius: 20px;
+	font-weight: bold;
+	font-size:15px;
+	
+}
+
+a:link {
+	color: blue;
+	font-weight: bold;
+}
+
+/* visited link */
+a:visited {
+	color: blue;
+	font-weight: bold;
+}
+
+/* mouse over link */
+a:hover {
+	color: red;
+	font-weight: bold;
+}
+a:active {
+	color: blue;
+	font-weight: bold;
+}
+
+button#d{
+	height: 30px;
+	width: 100px;
+	float: right;
+	color:red;
+	background: linear-gradient(to bottom right,blue,azure);
+	text-align: center;
+	border-radius: 20px;
+	font-weight: bold;	
+}
+
+div#mod{
+	position:fixed;
+	bottom: 150px;
+    right: 250px;
+    width: 300px
+}
+
+textarea{
+	width: 500px;
+	height: 60px;
+}
+
+input#b2[type=submit] {
+	height: 30px;
+	width: 100px;
+	float: left;
+	background: linear-gradient(to bottom right,blue,azure);
+	color:red;
+	text-align: center;
+	border-radius: 20px;
+	font-weight: bold;
+	font-size:15px;
+}
+
+input#b3[type=submit] {
+	height: 30px;
+	width: 250px;
+	float: left;
+	background: linear-gradient(to bottom right,blue,azure);
+	color:red;
+	text-align: center;
+	border-radius: 20px;
+	font-weight: bold;
+	font-size:15px;
+	font-style:italic;
+}

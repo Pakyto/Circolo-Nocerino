@@ -1,0 +1,66 @@
+button#d{
+	height: 30px;
+	width: 100px;
+	float: left;
+	color:red;
+	background: linear-gradient(to bottom right,blue,azure);
+	text-align: center;
+	border-radius: 20px;
+	font-weight: bold;	
+}
+
+input#d{
+	height: 30px;
+	width: 100px;
+	float: left;
+	color:red;
+	background: linear-gradient(to bottom right,blue,azure);
+	text-align: center;
+	border-radius: 20px;
+	font-weight: bold;
+}
+
+input#b3[type=submit] {
+	height: 30px;
+	width: 250px;
+	position: absolute;
+  	left: 40%;
+	background: linear-gradient(to bottom right,blue,azure);
+	color:red;
+	text-align: center;
+	border-radius: 20px;
+	font-weight: bold;
+	font-size:15px;
+	font-style:italic;
+}
+
+div#mod{
+	position:fixed;
+	bottom: 150px;
+    right: 80px;
+    width: 300px;
+}
+
+input#b2[type=submit] {
+	height: 30px;
+	width: 100px;
+	float: left;
+	background: linear-gradient(to bottom right,blue,azure);
+	color:red;
+	text-align: center;
+	border-radius: 20px;
+	font-weight: bold;
+	font-size:15px;
+}
+
+
+input#add{
+	height: 30px;
+	width: 130px;
+	float: left;
+	color:red;
+	background: linear-gradient(to bottom right,blue,azure);
+	text-align: center;
+	border-radius: 20px;
+	font-weight: bold;
+}

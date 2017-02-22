@@ -1,0 +1,25 @@
+h1.poker{
+	font-style: italic;
+	font-family: verdana;
+	text-align: center;
+	margin:  10px 10 px 0 px 10px;
+	padding-left: 20px;
+	
+}
+img#poker{
+	float:right;
+	padding-right: 100px;
+	padding-bottom: 50px;
+}
+
+h2.poker{
+	font-style: courier;
+	font-family: verdana;
+	text-align: center;
+}
+p.poker{
+	font-style: italic;
+	font-family: verdana;
+	text-align: left;
+	
+}

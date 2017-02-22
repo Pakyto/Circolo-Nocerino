@@ -1,0 +1,23 @@
+input#del{
+	height: 30px;
+	width: 130px;
+	float: left;
+	color:red;
+	background: linear-gradient(to bottom right,blue,azure);
+	text-align: center;
+	border-radius: 20px;
+	font-weight: bold;
+}
+
+input#del1{
+	height: 50px;
+	width: 150px;
+	float: right;
+	color:yellow;
+	background: linear-gradient(to bottom right,orange,green);
+	text-align: center;
+	border-radius: 20px;
+	font-weight: bold;
+}
+
+

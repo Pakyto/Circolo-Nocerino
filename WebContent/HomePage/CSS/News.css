@@ -1,0 +1,128 @@
+h1#ti{
+	
+  	font-family:'Calibri';
+  	text-align:center;
+  	font-weight:bold;
+  	font-size:250%;
+  	
+}
+h2#to{
+	font-style: italic;
+	margin-left:20px;
+  	margin-right:20px;	
+  	font-size:20px;
+    font-weight: bold;
+    font-family: 'times new roman';
+	}
+h3#par{
+	font-style: italic;
+  	font-family: 'times new roman';
+  	margin-left:20px;
+  	margin-right:20px;	
+  	font-size:180%;
+  	text-align:center;
+ }
+img#news1{
+	height:450px;                  //altezza
+	width:580px;                 //larghezza
+	
+	}
+p#eve{
+	text-align:center;
+	font-weight:bold;
+	margin-left:20px;
+	font-size:35px;
+	font-family:'Calibri';
+}
+
+div#uno{
+	float:left;
+	padding-right:30px;
+	padding-under:20px;
+	padding-above:30px;
+	padding-top: 20px;
+	font-size:20px;
+	font-family:'Calibri';
+	
+}
+div#due{
+	float:right;
+	padding-left: 50px;
+	padding-top: 20px;
+	font-family:'Calibri';
+	font-size:20px;
+}
+div#tre{
+	float:left;
+	padding-right:30px;
+	padding-under:20px;
+	padding-above:50px;
+	font-family:'Calibri';
+}
+div#quattro{
+   float:right;
+	padding-left: 50px;
+	font-family:'Calibri';
+}
+div#cinque{
+	float:left;
+	padding-right:30px;
+	padding-under:20px;
+	padding-above:50px;
+	font-family:'Calibri';
+}
+div#sei{
+	float:right;
+	padding-left: 50px;
+	font-family:'Calibri';
+}
+div#sette{
+	float:left;
+	padding-right:30px;
+	padding-under:20px;
+	padding-above:50px;
+	font-family:'Calibri';
+}
+div#otto{
+	float:right;
+	padding-left: 50px;
+	font-family:'Calibri';
+}
+div#nove{
+	float:left;
+	padding-right:30px;
+	padding-under:20px;
+	padding-above:50px;
+	font-family:'Calibri';
+}
+div#dieci{
+	float:right;
+	padding-left: 50px;
+	font-family:'Calibri';
+}
+div#undici{
+	float:left;
+	padding-right:30px;
+	padding-under:20px;
+	padding-above:50px;
+	font-family:'Calibri';
+}
+div#dodici{
+	float:right;
+	padding-left: 50px;
+	font-family:'Calibri';
+}
+div#tredici{
+		float:left;
+	padding-right:30px;
+	padding-under:30px;
+	padding-above:50px;
+	font-family:'Calibri';
+}
+div#quattordici{
+	float:right;
+	padding-left: 50px;
+	font-family:'Calibri';
+	font-size:20px;
+	
+}

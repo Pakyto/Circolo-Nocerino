@@ -1,0 +1,65 @@
+h2 {
+	margin-top:50px;
+	text-align: center;
+}
+
+div#mod{
+	bottom: 150px;
+    right: 250px;
+    width: 300px;
+    float:right;
+}
+
+input#b2[type=submit] {
+	height: 30px;
+	width: 100px;
+	float: left;
+	background: linear-gradient(to bottom right,blue,azure);
+	color:red;
+	text-align: center;
+	border-radius: 20px;
+	font-weight: bold;
+	font-size:15px;
+}
+
+input#b3[type=submit] {
+	height: 30px;
+	width: 250px;
+	float: left;
+	background: linear-gradient(to bottom right,blue,azure);
+	color:red;
+	text-align: center;
+	border-radius: 20px;
+	font-weight: bold;
+	font-size:15px;
+	font-style:italic;
+}
+
+p#sped{
+	padding-left:95px;
+}
+
+td#tb{
+	border: 1px solid black;
+}
+
+table.formdata{
+	margin-left:auto; 
+    margin-right:auto;
+	border: 1px solid black;
+	border-collapse: collapse;	
+}
+
+th,td{
+		padding: 5px;
+		border: 1px solid black;
+		text-align:center;
+		width:25%;
+}
+
+button#d{
+	height:35px;
+	width:85px;
+	font-size:14px;
+}
+

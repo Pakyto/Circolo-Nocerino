@@ -1,0 +1,48 @@
+h1#t{
+	font-style: 'verdana';
+  	font-family:  'Coral';
+  	text-align:center;
+  	font-weight:;
+  	font-size:45px;
+  	color: black;
+  	
+	
+}
+div#testo{
+	font-style: 'times new roman';
+  	font-family:  'Coral';
+  	text-align:left;
+  	font-weight:bold;
+  	font-size:30px;
+  	color: black;
+  	padding-bottom: 330px;
+  	margin-left:200px;
+  	border-radius:10px 10px 10px 10px;  
+	
+}
+img#sede{
+	padding-right: 730px;
+	padding-bottom:300px;
+	padding-top: 100px;
+	}
+img#immagine{
+     weight: 450px;
+     height: 450px;
+	 padding-right: 730px;
+	padding-bottom:110px;
+	
+	}
+div#icf{
+	font-style: 'times new roman';
+  	font-family:  'Coral';
+  	text-align:left;
+  	font-weight:bold;
+  	font-size:30px;
+  	color: black;
+  	padding-left: 350px;
+  	margin-left:200px;
+  	border-radius:10px 10px 10px 10px; 
+	
+}
+	
+}

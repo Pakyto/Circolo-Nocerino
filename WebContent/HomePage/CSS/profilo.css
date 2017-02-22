@@ -1,0 +1,32 @@
+#prof{
+	font-size:20px;
+	padding-left:30px;
+}
+
+span#prof{
+	font-size:20px;
+	font-weight: bold;
+	color:red;
+}
+
+input#add{
+	height: 30px;
+	width: 130px;
+	float: left;
+	color:red;
+	background: linear-gradient(to bottom right,blue,azure);
+	text-align: center;
+	border-radius: 20px;
+	font-weight: bold;
+}
+
+div#add{
+	padding-left:120px
+}
+
+div#mod{
+	position:fixed;
+	bottom: 150px;
+    right: 80px;
+    width: 300px;
+}

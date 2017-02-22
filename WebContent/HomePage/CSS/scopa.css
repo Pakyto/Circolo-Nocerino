@@ -1,0 +1,29 @@
+h1.scopa{
+	font-style: italic;
+	font-family: verdana;
+	text-align: center;
+	margin:  10px 10 px 0 px 10px;
+	padding-left: 20px;
+	
+}
+img#scopa{
+	float:right;
+	padding-right: 100px;
+	padding-bottom: 0px;
+}
+
+
+h2.scopa{
+	font-style: courier;
+	font-family: verdana;
+	text-align: center;
+	
+	
+	
+}
+p.scopa{
+	font-style: italic;
+	font-family: verdana;
+	text-align: left;
+	
+}
