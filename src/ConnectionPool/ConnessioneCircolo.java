@@ -31,8 +31,9 @@ public class ConnessioneCircolo {
     
     public void getConnection(){
         try{
-        	String url= "jdbc:mysql://localhost:3306/circolo";
-        	connessione = DriverManager.getConnection(url,"root","root");
+        	String sda="";
+        	String url= "jdbc:mysql://mysql3.gear.host:3306/circolo";
+        	connessione = DriverManager.getConnection(url,"circolo","Cw8t9kHK??n0");
         	System.out.println("Connessione OK \n");
         }
         catch(SQLException e){
@@ -46,3 +47,5 @@ public class ConnessioneCircolo {
 
     }
 }
+
+
