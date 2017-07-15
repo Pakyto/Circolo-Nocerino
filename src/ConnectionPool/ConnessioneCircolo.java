@@ -3,9 +3,6 @@ package ConnectionPool;
 import java.sql.*;
 import java.sql.Statement;
 import java.sql.Connection;
-import java.util.Scanner;
-import java.io.*;
-import com.mysql.jdbc.*;
 import com.mysql.jdbc.PreparedStatement;
  
  
@@ -31,7 +28,6 @@ public class ConnessioneCircolo {
     
     public void getConnection(){
         try{
-        	String sda="";
         	String url= "jdbc:mysql://mysql3.gear.host:3306/circolo";
         	connessione = DriverManager.getConnection(url,"circolo","Cw8t9kHK??n0");
         	System.out.println("Connessione OK \n");
